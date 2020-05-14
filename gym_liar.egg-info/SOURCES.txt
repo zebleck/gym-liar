@@ -1,7 +1,0 @@
-README.md
-setup.py
-gym_liar.egg-info/PKG-INFO
-gym_liar.egg-info/SOURCES.txt
-gym_liar.egg-info/dependency_links.txt
-gym_liar.egg-info/requires.txt
-gym_liar.egg-info/top_level.txt
