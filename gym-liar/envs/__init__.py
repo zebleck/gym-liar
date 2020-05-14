@@ -1,1 +1,1 @@
-from gym_liar.envs.liar_env import LiarEnv
+from gym-liar.envs.liar_env import LiarEnv
